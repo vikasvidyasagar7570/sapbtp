@@ -1,0 +1,4 @@
+Id,title,desc,author_Id,genre_Id,stock,price,currency_code,createdAt,createdBy,modifiedAt,modifiedBy
+1,kanuru hegadatti,kannu nanndu,1,1,87,123.9,₹
+2,kaviraja marga,honesty,2,2,87,180.9,₹
+3,mathu manikya,speech,3,3,897,236.09,₹
