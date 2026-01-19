@@ -1,0 +1,4 @@
+payment_id,order_id_order_id,payment_method,payment_date,amount,status
+bd8c4c14-34cc-4925-8a15-afd0b3e1456d,32142216-e05d-40ef-9a42-04b1da23991c,paytm,21/12/2025,604.09,done
+bd8c4c14-34cc-4925-8a15-afd0b3e1456e,32142216-e05d-40ef-9a42-04b1da23991d,cod,26/10/2024,908.09,done
+bd8c4c14-34cc-4925-8a15-afd0b3e1456f,32142216-e05d-40ef-9a42-04b1da23991e,cod,29/10/2023,234.03,done

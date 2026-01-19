@@ -1,0 +1,4 @@
+discount_id,discount_name,discount_type,discount_value,valid_from,valid_to
+da254549-8bd7-4634-9696-473524098653,welcome offer,percent,100.4,01/01/2026,10/03/2026
+da254549-8bd7-4634-9696-473524098652,bonous,100 minus,100.09,01/01/2026,10/03/2026
+da254549-8bd7-4634-9696-473524098651,diwali offer, min 70%off,70.0,01/01/2026,10/03/2026
